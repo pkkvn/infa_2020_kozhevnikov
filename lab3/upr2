@@ -32,7 +32,8 @@ rect (screen, skyblue, (x0+400, y0+40, 60, 60))
 rect (screen, skyblue, (x0+320, y0+120, 60, 140))
 rect (screen, skyblue, (x0+400, y0+120, 60, 140))
 
-
+ellipse (screen, ckota, (340, 330, 120, 80))#hvost
+ellipse (screen, black, (340, 330, 120, 80), width)
 
 
 ellipse(screen, ckota, (100, 320, 280, 160))#tulovische
